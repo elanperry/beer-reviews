@@ -2,7 +2,7 @@
 This is a dataset of over 1.5 million reviews given for various beers. It includes overall review scores, ABV%, Name of beer, Name of brewery, and more specific review scores for beer features (aroma, appearance, taste, palette). 
 
 
-## My responses and solutions to these questions can be found in the jupyter notebook [here](https://github.com/elanperry/beer-reviews/blob/master/beer_reviews.ipynb).
+## My responses and solutions to these questions can be found in the [Jupyter notebook](https://github.com/elanperry/beer-reviews/blob/master/beer_reviews.ipynb).
 
 
 #### 1.    Which brewery produces the strongest beers by ABV%?
